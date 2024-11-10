@@ -1,6 +1,8 @@
 ## RISCV Processor
 
-Introduction
+### Introduction
+
+
 This RISCV Processor is a 16-bit computer system with 8 registers. It follows the standard 6 stage pipelines
 (Instruction Fetch, Instruction Decode, Register Read, Execute, Memory Access, and Write Back).
 The architecture designed is optimized for performance, includes hazard mitigation techniques, for which
